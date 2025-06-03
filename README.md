@@ -4,9 +4,9 @@ This project contains two parts:
 1. **Frontend**: React app that fetches random cat facts
 2. **Backend**: Node.js API that checks if numbers are prime
 
-## Frontend Setup (React App)
+## Backend Setup
 ```bash
-cd frontend
+cd backend
 npm install
 npm start
 
